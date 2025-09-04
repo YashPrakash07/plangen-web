@@ -153,7 +153,7 @@ export default function HomePage() {
   return (
     <main className="container mx-auto p-4 md:p-8">
       <div className="flex flex-col items-center text-center">
-        <h1 className="text-4xl font-bold tracking-tight">PlanGen Web</h1>
+        <h1 className="text-4xl font-bold tracking-tight">CodePlanner AI</h1>
         <p className="mt-2 text-lg text-muted-foreground">
           Your AI-powered planning layer for code generation.
         </p>
