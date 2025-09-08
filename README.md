@@ -1,8 +1,8 @@
-# PlanGen Web 🚀
+# CodePlaner-Ai 🚀
 
-An interactive web application that acts as an AI-powered planning layer for code generation, inspired by the vision of Traycer. This tool demonstrates a "Plan -> Approve -> Execute" workflow, putting the developer in control of AI-driven development.
+An interactive web application that acts as an AI-powered planning layer for code generation, inspired by the vision of Traycer. This tool demonstrates a "Plan -> Approve -> Execute" workflow, giving developers control over AI-driven development.
 
-![PlanGen Web Screenshot](./screenshot.png)
+![CodePlaner-Ai Screenshot](./screenshot.png)
 
 
 ---
@@ -37,7 +37,7 @@ PlanGen isn't just another code generator. It's a strategic partner that helps d
 
 ## 🚀 Getting Started
 
-Follow these instructions to get a local copy up and running for development and testing purposes.
+Follow these instructions to set up a local copy for development and testing purposes.
 
 ### Prerequisites
 
