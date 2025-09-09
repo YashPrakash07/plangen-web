@@ -1,5 +1,5 @@
 {
-  "name": "plangen-web",
+  "name": "codeplanner ai",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@ai-sdk/google": "^2.0.13",
-    "@ai-sdk/groq": "^2.0.17",
     "@anthropic-ai/sdk": "^0.24.3",
     "@google/generative-ai": "^0.24.1",
     "@radix-ui/react-accordion": "^1.2.12",
